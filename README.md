@@ -4,6 +4,9 @@ This repo contains creative coding exploratory sketches developed since 2016 usi
 
 ## p5.js
 
+### Live Image Processing
+![](https://github.com/guillemontecinos/creative_coding/blob/master/documentation/image_processing.gif)
+
 ### Gravity
 ![](https://github.com/guillemontecinos/creative_coding/blob/master/documentation/gravity.gif)
 
