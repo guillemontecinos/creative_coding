@@ -1,0 +1,103 @@
+/*css para sitio web de Guillermo Montecinos
+/*basado en css de Aarón Montoya-Moraga: montoyamoraga.io
+/*by aaron montoya-moraga*/
+/*with tons of help by wipawe sirikolkarn*/
+/*march 2017*/
+
+
+img {
+    display: block;
+    margin: auto;
+
+    max-height: 600px;
+    /*width: 75%;*/
+}
+
+h1 {
+  font-family: "Aller",sans-serif;
+  font-size: 37px;
+  color: rgb(150,150,150);
+}
+
+p, h2, h3, h4, h5, h6 {
+    font-family: "Aller",sans-serif;
+    font-weight: normal;
+    color: rgb(100,100,100);
+}
+
+ul {
+    display: inline-flex;
+    list-style-type: none;
+    padding: 0;
+}
+
+li{
+  margin-right: 23px;
+}
+
+li a{
+  font-family: Helvetica, sans-serif;
+  text-decoration: none;
+  color: black;
+}
+
+li a:hover{
+  opacity: 0.5;
+}
+
+a{
+  font-family: "Aller", sans-serif;
+  text-decoration: none;
+  /*color: rgb(100,100,100);*/
+  color: rgb(200,200,200);
+}
+
+a:hover{
+  opacity: 0.5;
+}
+
+
+.piccaption {
+  font-family: "Aller", sans-serif;
+  font-weight: normal;
+  text-align: center;
+  font-size: 85%;
+}
+.linktohome {
+  text-decoration: none;
+  color: rgb(100,100,100);
+}
+
+.linktohome:hover{
+  opacity: 0.5;
+}
+
+.nav {
+  text-align: center;
+}
+
+.abajo{
+  position: absolute;
+  bottom: 30px;
+  font-size: 18px;
+  font-family: "Aller",sans-serif;
+  font-weight: normal;
+  /*color: rgb(100,100,100);*/
+  color: rgb(200,200,200);
+}
+
+.encabezado{
+  margin-top: 35px;
+  font-size: 32px;
+  font-family: "Aller",sans-serif;
+  font-weight: normal;
+  /*color: rgb(100,100,100);*/
+  color: rgb(200,200,200);
+}
+
+
+.coverpiccontent {
+    border-radius: 20px;
+    max-width: 60%;
+    height: auto;
+}
