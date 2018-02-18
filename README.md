@@ -7,6 +7,9 @@ This repo contains creative coding exploratory sketches developed since 2016 usi
 ### Live Image Processing
 ![](https://github.com/guillemontecinos/creative_coding/blob/master/documentation/image_processing.gif)
 
+### Text Animation
+![](https://github.com/guillemontecinos/creative_coding/blob/master/documentation/text_programacion.gif)
+
 ### Gravity
 ![](https://github.com/guillemontecinos/creative_coding/blob/master/documentation/gravity.gif)
 
